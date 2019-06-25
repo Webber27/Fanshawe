@@ -13,7 +13,7 @@ fieldset {
  padding: 0;
  }
  ```
- 
+ Week3 - Github Desktop and Advanced Selectors
  ### Prerequisistes
  
  A knowledge of HTML 5 is a pre-requisite for this course.
